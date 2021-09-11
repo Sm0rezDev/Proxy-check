@@ -34,7 +34,7 @@ def fetch_proxy(targetURL, count):
 
 parser = argparse.ArgumentParser(description='Proxy checker')
 parser.add_argument('targetURL', type=str, help='targetURL example: https://example.com')
-parser.add_argument('proxyCount', type=int, help='proxy count')
+parser.add_argument('proxyCount', type=int, help='count')
 args = parser.parse_args()
 
 fetch_proxy(args.targetURL, args.proxyCount)
