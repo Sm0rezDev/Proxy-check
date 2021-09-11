@@ -1,3 +1,3 @@
 # Proxy-check
 
-GIF demo: https://imgur.com/cbMzfvn
+![GIF-demo](https://imgur.com/cbMzfvn.gif)
